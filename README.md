@@ -14,6 +14,7 @@ Este proyecto representa mis primeros pasos en el mundo de **React**. Durante el
 - Gestionar el estado con `useState`.
 - Crear componentes funcionales.
 - Manejar eventos como clics y entradas de texto.
+- Uso clases de bootstrap y también css.
 
 ## Instalación
 
